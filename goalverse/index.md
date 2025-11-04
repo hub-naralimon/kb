@@ -3,9 +3,7 @@ layout: default
 title: Goalverse
 ---
 
-# Goalverse
-
-Official help and legal documentation.
+# Official help and legal documentation
 
 ## 📘 Help
 - [How Goalverse Works](how-it-works.html)
