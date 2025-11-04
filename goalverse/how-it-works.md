@@ -195,3 +195,5 @@ Upgrade → pay on Lemon Squeezy → receive two emails (receipt + magic link) �
 ---
 
 > Because progress needs direction.
+
+[← Back](../)
