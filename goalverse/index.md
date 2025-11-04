@@ -20,11 +20,12 @@
   <h2>📘 Help</h2>
   <ul>
     <li><a href="how-it-works.html">How Goalverse Works</a></li>
-    <li><a href="faq.html">Frequently Asked Questions</a></li>
+    <li><a href="faqs.html">Frequently Asked Questions</a></li>
   </ul>
 
   <h2>⚖️ Legal</h2>
   <ul>
+     <li><a href="legal/legal.html">Policies</a></li>
     <li><a href="legal/terms.html">Terms of Service</a></li>
     <li><a href="legal/privacy.html">Privacy Policy</a></li>
     <li><a href="legal/cookies.html">Cookie Policy</a></li>
