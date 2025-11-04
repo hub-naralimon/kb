@@ -8,7 +8,7 @@ Aquí compartimos ensayos breves, estudios de caso y reflexiones prácticas para
 
 ## 📚 Artículos y Guías
 
-- [**¿Qué es el coaching y en qué se diferencia de enseñar y mentorizar?**](../cs/what-is-coaching.html)  
+- [**¿Qué es el coaching y en qué se diferencia de enseñar y mentorizar?**](../cs/que-es-coaching.html)  
   Entiende la filosofía central detrás de GOALVERSE y por qué el coaching funciona cuando los consejos fallan.
 
 ---
