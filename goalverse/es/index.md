@@ -15,7 +15,7 @@ Aquí compartimos ensayos breves, estudios de caso y reflexiones prácticas para
 
 ## 📖 Estudios de Caso
 
-- [**De un sueño vago a logros semanales**](../case-studies/from-vague-dream-to-weekly-wins.html)  
+- [**De un sueño vago a logros semanales**](../es/de-vago-a-victorias-semanales.html)  
   Descubre cómo una usuaria transformó “Quiero estar más saludable” en progreso real y sostenible con GOALVERSE.
 
 ---
