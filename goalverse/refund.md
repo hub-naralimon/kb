@@ -1,8 +1,3 @@
-layout: default
----
-title: Refund & Cancellation Policy – Goalverse
----
-
 # Refund & Cancellation Policy — GOALVERSE
 
 **Last updated:** 30 October 2025
