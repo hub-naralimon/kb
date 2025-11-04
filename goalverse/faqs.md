@@ -1,3 +1,4 @@
+layout: default
 ---
 title: FAQs
 description: Frequently asked questions about using GOALVERSE, your AI-powered goal coach.
