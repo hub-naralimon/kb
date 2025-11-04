@@ -116,3 +116,5 @@ GOALVERSE exists because sometimes, all we need is a gentle nudge — a conversa
 It’s not about being told what to do. It’s about **rediscovering why you wanted to do it in the first place**.
 
 And that’s what real coaching — human or AI-powered — is all about.
+
+[← Back](../)
