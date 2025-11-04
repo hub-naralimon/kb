@@ -25,7 +25,7 @@
 
   <h2>⚖️ Legal</h2>
   <ul>
-     <li><a href="legal/legal.html">Policies</a></li>
+     <li><a href="legal.html">Policies</a></li>
     <li><a href="legal/terms.html">Terms of Service</a></li>
     <li><a href="legal/privacy.html">Privacy Policy</a></li>
     <li><a href="legal/cookies.html">Cookie Policy</a></li>
