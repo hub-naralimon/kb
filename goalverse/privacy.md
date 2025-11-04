@@ -4,7 +4,7 @@ title: Privacy Policy – Goalverse
 
 # Privacy Policy
 
-**Last updated:** 30 September 2025
+**Last updated:** 3 November 2025
 
 We comply with **UK GDPR** and **EU GDPR**.
 
