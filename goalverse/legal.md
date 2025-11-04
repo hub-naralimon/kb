@@ -1,8 +1,3 @@
-layout: default
----
-title: Legal Terms – Goalverse
----
-
 # 📜 Legal Terms
 
 By using **GOALVERSE** or upgrading to a Premium Plan, you confirm that you have read, understood, and agree to the following terms and policies.  
