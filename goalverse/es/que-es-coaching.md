@@ -110,3 +110,5 @@ No se trata de que te digan qué hacer.
 Se trata de redescubrir *por qué* querías hacerlo en primer lugar.
 
 Y eso es, precisamente, lo que el verdadero coaching —humano o impulsado por IA— busca lograr.
+
+[← Back](../)
