@@ -129,3 +129,5 @@ We use **technical and organisational measures** appropriate to the risk:
 ## 11) Changes to this policy
 
 We may update this policy. **Material changes** will be notified **in-app** or by **email**.
+
+[← Back](../)
