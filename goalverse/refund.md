@@ -1,3 +1,4 @@
+layout: default
 ---
 title: Refund & Cancellation Policy – Goalverse
 ---
