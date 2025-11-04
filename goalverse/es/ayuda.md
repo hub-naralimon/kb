@@ -242,3 +242,5 @@ Si cancelas, el plan permanecerá activo hasta el final del periodo actual. Pued
 **Haz el upgrade → paga en Lemon Squeezy → Inicia sesión por correo → haz clic en el enlace mágico → disfruta de Premium** (panel, analíticas, exportaciones, notificaciones, sincronización en la nube).
 
 > 💬 **Porque el progreso necesita dirección.**
+
+[← Back](../)
