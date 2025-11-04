@@ -1,8 +1,3 @@
-layout: default
----
-title: Terms of Service – Goalverse
----
-
 # Terms of Service
 
 **Last updated:** 30 October 2025
