@@ -9,8 +9,6 @@ title: Goalverse
 - [How Goalverse Works](how-it-works.html)
 - [FAQs](faqs.html)
 - [Guides & Case Studies](cs/index.md)
-- [Ayuda en español](es/ayuda.html)
-- [Guías y estudios de caso](es/index.md)
 
 ## ⚖️ Legal
 - [Policies](legal.html)
