@@ -65,15 +65,7 @@ Upgrading to Premium constitutes **explicit acceptance** of both the **Terms of 
 
 ---
 
-## 💡 Help
-
-- **[Help Page](../goalverse/how-it-works.html)**  
-  General help and guidance
-
-- **[Help in Spanish](../goalverse/es/ayuda.html)**  
-  *Ayuda en español* 
-
-- **[FAQs](../goalverse/faqs.html)**  
+- **[FAQs](../goalverse/en/faqs.html)**  
   Check FAQs
 
   [← Back](../)
