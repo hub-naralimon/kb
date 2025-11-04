@@ -1,5 +1,3 @@
-layout: default
----
 title: Cookie Policy – Goalverse
 ---
 # Cookie Policy
