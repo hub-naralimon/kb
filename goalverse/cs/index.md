@@ -15,7 +15,7 @@ Below, we share short essays, case studies, and practical reflections to help yo
 
 ## 📖 Case Studies
 
-- [**From Vague Dream to Weekly Wins**](../case-studies/from-vague-dream-to-weekly-wins.html)  
+- [**From Vague Dream to Weekly Wins**](../cs/from-vague-dream-to-weekly-wins.html)  
   See how one user turned “I want to be healthier” into consistent, real-world progress with GOALVERSE.
 
 ---
