@@ -88,11 +88,24 @@ And those are the things that last.
 
 ## In Short
 
-| Role      | Focus           | Relationship              | Main Goal                     |
-|-----------|------------------|----------------------------|-------------------------------|
-| Teacher   | Knowledge        | Structured, expert–learner | Learn something new           |
-| Mentor    | Experience       | Personal, guiding          | Grow through insight          |
-| Coach     | Self-discovery   | Collaborative, empowering  | Achieve your own goals        |
+### 👩‍🏫 Teacher
+- **Focus:** Knowledge  
+- **Relationship:** Structured, expert–learner  
+- **Main Goal:** Learn something new  
+
+---
+
+### 🧭 Mentor
+- **Focus:** Experience  
+- **Relationship:** Personal, guiding  
+- **Main Goal:** Grow through insight  
+
+---
+
+### 🚀 Coach
+- **Focus:** Self-discovery  
+- **Relationship:** Collaborative, empowering  
+- **Main Goal:** Achieve your own goals  
 
 ---
 
