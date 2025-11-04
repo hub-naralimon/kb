@@ -1,9 +1,7 @@
----
 layout: default
 ---
 title: Cookie Policy – Goalverse
 ---
-
 # Cookie Policy
 
 **Last updated:**  4 November 2025
