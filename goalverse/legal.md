@@ -70,8 +70,8 @@ Upgrading to Premium constitutes **explicit acceptance** of both the **Terms of 
 - **[Help Page](../index.html)**  
   General help and guidance
 
-- **[Help in Spanish](../es/)**  
-  *Ayuda en español* (coming soon)
+- **[Help in Spanish](../es/ayuda.html)**  
+  *Ayuda en español* 
 
-- **[FAQs](../faq.html)**  
+- **[FAQs](../faqs.html)**  
   Check FAQs
