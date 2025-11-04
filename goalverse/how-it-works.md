@@ -1,5 +1,4 @@
 How It Works
-Learn how to use GOALVERSE, the AI-powered goal coach that helps you turn intentions into results.
 ---
 
 # **What is GOALVERSE?**
