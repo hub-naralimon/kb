@@ -7,9 +7,9 @@ Select your language below 👇
 
 ## 🌎 Languages
 
-- [🇬🇧 English](golaverse/en/)
+- [🇬🇧 English](goalverse/en/)
 - [🇪🇸 Español](goalverse/es/)
-
+  
 ---
 
 ### 📘 About This Space
