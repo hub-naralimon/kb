@@ -94,11 +94,24 @@ Y eso sí que perdura.
 
 ## En resumen
 
-| Rol | Enfoque | Relación | Objetivo principal |
-|------|--------|---------------|-------------------|
-| **Profesor** | Conocimiento | Estructurada, experto–aprendiz | Aprender algo nuevo |
-| **Mentor** | Experiencia | Personal, orientadora | Crecer mediante la perspectiva |
-| **Coach** | Autodescubrimiento | Colaborativa, empoderadora | Alcanzar tus propias metas |
+### 👩‍🏫 Profesor
+- **Enfoque:** Conocimiento  
+- **Relación:** Estructurada, experto–aprendiz  
+- **Objetivo principal:** Aprender algo nuevo  
+
+---
+
+### 🧭 Mentor
+- **Enfoque:** Experiencia  
+- **Relación:** Personal, orientadora  
+- **Objetivo principal:** Crecer mediante la perspectiva  
+
+---
+
+### 🚀 Coach
+- **Enfoque:** Autodescubrimiento  
+- **Relación:** Colaborativa, empoderadora  
+- **Objetivo principal:** Alcanzar tus propias metas  
 
 ---
 
