@@ -21,6 +21,7 @@
   <ul>
     <li><a href="how-it-works.html">How Goalverse Works</a></li>
     <li><a href="faqs.html">Frequently Asked Questions</a></li>
+   <li><a href="/es/ayuda.html">Cómo funciona Goalverse - Español</a></li>
   </ul>
 
   <h2>⚖️ Legal</h2>
