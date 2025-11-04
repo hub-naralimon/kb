@@ -7,8 +7,8 @@ Select your language below 👇
 
 ## 🌎 Languages
 
-- [🇬🇧 English](/en/)
-- [🇪🇸 Español](/es/)
+- [🇬🇧 English](golaverse/en/)
+- [🇪🇸 Español](goalverse/es/)
 
 ---
 
