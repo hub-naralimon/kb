@@ -75,3 +75,5 @@ Upgrading to Premium constitutes **explicit acceptance** of both the **Terms of 
 
 - **[FAQs](../goalverse/faqs.html)**  
   Check FAQs
+
+  [← Back](../)
