@@ -83,3 +83,5 @@ This policy is governed by the laws of **England and Wales**.
 **EU consumers** retain any non-waivable local rights.  
 
 All payments and refunds remain subject to the [Lemon Squeezy Buyer Terms](https://www.lemonsqueezy.com/buyer-terms).
+
+[← Back](../)
