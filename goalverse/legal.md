@@ -1,3 +1,4 @@
+layout: default
 ---
 title: Legal Terms – Goalverse
 ---
