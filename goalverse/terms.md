@@ -147,3 +147,5 @@ These Terms are governed by the laws of **England and Wales**. The courts of Eng
 - **Email:** [support@goalverse.app](mailto:support@goalverse.app)  
 - **Operator:** Sienda Ltd, London, United Kingdom  
 - **Marketing powered by:** Naralimon s.c., Spain
+
+- [← Back](../)
