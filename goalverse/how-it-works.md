@@ -1,3 +1,4 @@
+layout: default
 ---
 title: How It Works
 description: Learn how to use GOALVERSE, the AI-powered goal coach that helps you turn intentions into results.
