@@ -8,7 +8,7 @@ title: Goalverse
 ## 📘 Help
 - [How Goalverse Works](how-it-works.html)
 - [FAQs](faqs.html)
-- [Guides & Case Studies](cs/index.md)
+- [Guides & Case Studies](../cs/index.md)
 
 ## ⚖️ Legal
 - [Policies](legal.html)
